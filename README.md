@@ -1,5 +1,5 @@
 # Clasificador_Perros
 
-Para probar el código si no quiere instalar nada puede ejecutar el código con siguiente enlace de Binder:
+Para probar el código ejecutalo en Binder:
 
-https://mybinder.org/v2/gh/gringom935/Clasificador_Perros.git/main?labpath=Clasificador_de_perros_solo
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gringom935/Clasificador_Perros.git/HEAD?labpath=Clasificador_de_perros_solo.ipynb)
